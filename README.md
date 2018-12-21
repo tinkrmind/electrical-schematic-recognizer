@@ -2,15 +2,15 @@
 
 Electronics becomes a lot easier if you can simulate circuits before making them. But there is a large learning curve to getting started with simulation, nit the least being learning a new software to make the schematic in. One of the most common and best circuit simulation tools is Spice with variants from various electronics companies, e.g. LTSpice from Linear Technologies.
 
-![LTSpice Interface](https://github.com/tinkrmind/electrical-schematic-recognizer/blob/master/screengrabs/LTSpice.png)
+![LTSpice Interface](https://github.com/tinkrmind/electrical-schematic-recognizer/blob/master/screengrabs/LTSpice.PNG)
 
 As you can see from the image above, the LTSpice interface leaves a lot wanting. And it is not really going to change anytime soon.
 
 Electronic Schematic Recognizer is an attempt to reduce the barrier to entry to circuit simulation by digitizing hand drawn schematics which can later be converted to spice models. Here are some of the results from the project:
 
-![Circuit Result 1](https://github.com/tinkrmind/electrical-schematic-recognizer/blob/master/screengrabs/circuitResult1.png)
+![Circuit Result 1](https://github.com/tinkrmind/electrical-schematic-recognizer/blob/master/screengrabs/circuitResult1.PNG)
 
-![Circuit Result 2](https://github.com/tinkrmind/electrical-schematic-recognizer/blob/master/screengrabs/circuitResult2.png)
+![Circuit Result 2](https://github.com/tinkrmind/electrical-schematic-recognizer/blob/master/screengrabs/circuitResult2.PNG)
 
 ## Process
 
